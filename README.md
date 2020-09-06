@@ -3,8 +3,9 @@
 ### Connection to mysql
 1. [Follow this link to delete all previous borken mysql versions](https://gist.github.com/operatino/392614486ce4421063b9dece4dfe6c21)
 2. Delete all files under /usr/local/var/mysql (rm -r mysql; mkdir mysql)
-2. [Initialize mysql server daemon](https://gist.github.com/operatino/392614486ce4421063b9dece4dfe6c21#gistcomment-2703813)
-3. [Follow this link to connect to mysql on your local](https://superuser.com/a/603027)
+3. [Initialize mysql server daemon](https://gist.github.com/operatino/392614486ce4421063b9dece4dfe6c21#gistcomment-2703813)
+4. [Follow this link to connect to mysql on your local](https://superuser.com/a/603027)
+5. Exit mysql CLI : `exit;` 
 
 
 reference: 
