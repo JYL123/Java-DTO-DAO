@@ -7,6 +7,8 @@
 4. [Follow this link to connect to mysql on your local](https://superuser.com/a/603027)
 5. Exit mysql CLI : `exit;` 
 
+### Spring bean issues workaround
+1. [import org.springframework.web.*cannot be resolved](https://blog.csdn.net/qq_40604853/article/details/84325774)
 
 reference: 
 * https://medium.com/@tariqul.islam.rony/spring-boot-with-visual-studio-code-visual-studio-code-part-2-7943febb52f8
