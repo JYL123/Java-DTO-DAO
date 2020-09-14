@@ -7,7 +7,10 @@
 4. [Follow this link to connect to mysql on your local](https://superuser.com/a/603027)
 5. Exit mysql CLI : `exit;` 
 
-### Spring bean issues workaround
+### Java Libs
+1. [Lombok](https://projectlombok.org/)
+
+### Spring bean issues work around
 1. [import org.springframework.web.*cannot be resolved](https://blog.csdn.net/qq_40604853/article/details/84325774)
 
 reference: 
